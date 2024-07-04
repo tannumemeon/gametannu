@@ -34,11 +34,11 @@ button:hover {
     background-color: #0056b3;
 }
 h1.truth {
-    background:#fbc4ab;
+    background: #fbc4ab;
     line-height: 6;
-    height: 211px;
+    height: 224px;
     text-align: center;
-    margin-top: 2px;
+    margin-top: -2px;
 }
 div#question {
     font-size: 22px;
@@ -57,12 +57,12 @@ div#question {
 h1.dare {
     background: #b8b8ff;
     line-height: 6;
-    height: 222px;
+    height: 257px;
     text-align: center;
     margin-top: -26px;
 }
 .btn {
-    margin-top: -298px;
+    margin-top: -331px;
     text-align: center;
     text-decoration: none;
 }
